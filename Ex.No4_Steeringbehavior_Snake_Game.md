@@ -1,8 +1,8 @@
 # Ex.No: 4  Implementation of Snake game using Steering behaviors
 
 
-#### DATE: 22-08-24                                                               
-#### REGISTER NUMBER : 212221240017
+#### DATE:                                                             
+#### REGISTER NUMBER : 212221240063
 
 
 ### AIM: 
