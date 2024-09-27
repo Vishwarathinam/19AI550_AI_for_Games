@@ -1,6 +1,6 @@
 # Ex.No: 3  Implementation of Kinematic movement seek and flee behaviors 
-#### DATE: 22-08-24                                                                   
-#### REGISTER NUMBER : 212221240017
+#### DATE:                                                                  
+#### REGISTER NUMBER : 212221240063
 ### AIM: 
 To write a python program to simulate the process of seek and flee behaviors using mouse movements.
 ### Algorithm:
