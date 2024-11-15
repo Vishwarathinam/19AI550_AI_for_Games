@@ -1,4 +1,4 @@
-# Ex.No:   Implementation of Minimax Search
+# Ex.No: 8  Implementation of Minimax Search
 ### Date:                                                                         
 ### Register Number : 212221240063
 ### Aim: 
