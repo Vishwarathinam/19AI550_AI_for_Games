@@ -1,7 +1,7 @@
 ## <p align="center"> EX.NO : 10 -- Implementation of Negamax algorithm ... </p>
 
-#### DATE : 5-10-2024
-#### REGISTER NUMBER : 212221240005
+#### DATE : 
+#### REGISTER NUMBER : 212221240063
 
 ### AIM :
 
