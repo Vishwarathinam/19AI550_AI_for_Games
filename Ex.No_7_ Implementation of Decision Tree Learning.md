@@ -1,7 +1,7 @@
 ## <p align="center"> EX.NO : 7 -- Implementation of Decision Tree Learning ... </p>
 
-## DATE : 18-10-2024
-## REGISTER NUMBER : 212221240005
+## DATE : 
+## REGISTER NUMBER : 212221240063
 
 ## Aim :
 
